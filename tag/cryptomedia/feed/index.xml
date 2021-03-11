@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CryptoMedia &#8211; GrowTye&#039;s Blog</title>
+	<atom:link href="https://cvatch.github.io/blog/tag/cryptomedia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://cvatch.github.io/blog</link>
+	<description>A way to share the things I learn with the world</description>
+	<lastBuildDate>Thu, 11 Mar 2021 05:43:44 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7</generator>
+
+<image>
+	<url>https://cvatch.github.io/blog/wp-content/uploads/2021/03/cropped-Bowtie_heart_112-32x32.png</url>
+	<title>CryptoMedia &#8211; GrowTye&#039;s Blog</title>
+	<link>https://cvatch.github.io/blog</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Getting Started with Epor.io</title>
+		<link>https://cvatch.github.io/blog/2021/03/11/eporio/</link>
+		
+		<dc:creator><![CDATA[GrowTye]]></dc:creator>
+		<pubDate>Thu, 11 Mar 2021 05:17:44 +0000</pubDate>
+				<category><![CDATA[Cryptomedia]]></category>
+		<category><![CDATA[Epor.io]]></category>
+		<category><![CDATA[Crypto]]></category>
+		<category><![CDATA[Cryptoart]]></category>
+		<category><![CDATA[CryptoMedia]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[xDai]]></category>
+		<guid isPermaLink="false">https://cvatch.github.io/blog/?p=22</guid>
+
+					<description><![CDATA[A quick guide on starting with the xDai network to make transaction on Epor.io.]]></description>
+										<content:encoded><![CDATA[
+<p id="gettingeporio"><a rel="noreferrer noopener" href="http://Epor.io/" data-type="URL" data-id="Epor.io" target="_blank">Epor.io</a> has been the best marketplace I have found so far out of the many I have looked at. All the gas fees for minting and transacting are practically nothing. The only downside I have found, is that is uses the <a href="https://www.xdaichain.com/" data-type="URL" data-id="https://www.xdaichain.com/" target="_blank" rel="noreferrer noopener">xDai network</a> which isn&#8217;t as well known or as popular as the <a href="https://ethereum.org/en/" data-type="URL" data-id="https://ethereum.org/en/" target="_blank" rel="noreferrer noopener">Ethereum</a> Mainnet. This guide will show you how to add the <a href="https://www.xdaichain.com/" data-type="URL" data-id="https://www.xdaichain.com/" target="_blank" rel="noreferrer noopener">xDai network</a> to your <a href="https://metamask.io/" data-type="URL" data-id="https://metamask.io/" target="_blank" rel="noreferrer noopener">Metamask</a>, and then how to buy a piece from the <a href="http://Epor.io/" data-type="URL" data-id="Epor.io" target="_blank" rel="noreferrer noopener">Epor.io</a> marketplace. </p>
+
+
+
+<h2>Adding the xDai Network to Metamask</h2>
+
+
+
+<p id="addingxdai">Before using Epor.io you must add the xDai network, to do this, go into Metamask, and find &#8220;Custom RPC&#8221; from the dropdown located near the top of the app.</p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://gblobscdn.gitbook.com/assets%2F-Lpi9AHj62wscNlQjI-l%2F-M4oHJb9sfXw_T_UxNG_%2F-M4oHQEsI2DlDy9y2UgE%2Fcustom-rpc.png?alt=media&amp;token=88e78a8b-c396-4f10-8390-f90cece906fe" alt="" width="284" height="409"/></figure>
+
+
+
+<p>Use the following details in the &#8220;Custom RPC&#8221; settings and save:</p>
+
+
+
+<ul><li>Network Name: <strong>xDai</strong></li><li>New RPC URL: <a rel="noreferrer noopener" href="https://rpc.xdaichain.com/" target="_blank"><strong>https://rpc.xdaichain.com/</strong></a></li><li>Chain ID: <strong>0x64</strong> (100)</li><li>Symbol: <strong>xDai</strong></li><li>Block Explorer URL: <a rel="noreferrer noopener" href="https://blockscout.com/xdai/mainnet/" target="_blank"><strong>https://blockscout.com/xdai/mainnet</strong></a></li></ul>
+
+
+
+<p>Now that the xDai Network is added to your wallet, you are going to have to switch between this network and the Etherum Mainnet depending on white website or application you are using. </p>
+
+
+
+<h2>Adding xDai to Epor.io</h2>
+
+
+
+<p id="xdaieporio">with Epor.io loaded, click on your profile in the top right hand corner of the page. On this page there will be a load xDai button. </p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://cvatch.github.io/blog/wp-content/uploads/2021/03/Capture.jpg" alt="" class="wp-image-23" width="221" height="161" srcset="https://cvatch.github.io/blog/wp-content/uploads/2021/03/Capture.jpg 523w, https://cvatch.github.io/blog/wp-content/uploads/2021/03/Capture-300x219.jpg 300w" sizes="(max-width: 221px) 100vw, 221px" /></figure>
+
+
+
+<p>This will direct you to enter your email address in which you will receive a one time code for verification. Once confirmed you will be directed to add a payment method for your purchase. </p>
+
+
+
+<h2>Buying an NFT</h2>
+
+
+
+<p id="buyingnft">With your wallet all loaded, now it is time to spend! Use the &#8220;browse&#8221; function on the top tool bar and explore the recent works uploaded by the Epor.io community.  Once on a token page, there will be a buy button next to the price if the NFT is available for purchase. </p>
+
+
+
+<figure class="wp-block-image size-large is-resized"><img loading="lazy" src="https://cvatch.github.io/blog/wp-content/uploads/2021/03/Capture-1.jpg" alt="" class="wp-image-24" width="285" height="91" srcset="https://cvatch.github.io/blog/wp-content/uploads/2021/03/Capture-1.jpg 589w, https://cvatch.github.io/blog/wp-content/uploads/2021/03/Capture-1-300x96.jpg 300w" sizes="(max-width: 285px) 100vw, 285px" /></figure>
+
+
+
+<p>After you click the buy button, Metamask will pop up with a window asking you to confirm the transaction including gas fees. As previously noted, the fees for the transactions are nothing compared to other networks. once confirmed the transaction won&#8217;t take very long to complete and for the NFT to show up on your profile.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
